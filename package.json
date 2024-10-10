@@ -1,0 +1,22 @@
+{
+  "name": "curso-nodejs-practica",
+  "version": "1.0.0",
+  "description": "Curso de NodeJS practica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dyaxoo/Curso-NodeJS-pr-ctica.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Artyom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dyaxoo/Curso-NodeJS-pr-ctica/issues"
+  },
+  "homepage": "https://github.com/Dyaxoo/Curso-NodeJS-pr-ctica#readme"
+}
